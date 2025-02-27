@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fps_shakaのまとめ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>fps_shakaのまとめ</h1>
+        </header>
+        <main>
+            <section>
+                <h2>プロフィール</h2>
+                <p>fps_shaka（本名：川上 力、1991年12月27日生まれ）は、日本の元プロゲーマー、ストリーマー、YouTuberです。</p>
+            </section>
+            <section>
+                <h2>経歴</h2>
+                <p>fps_shakaは、AVAやPUBGなどのFPSゲームで有名になりました。彼はDeToNatorに所属しており、プロゲーマーとして活動していました。</p>
+                <p>その後、TwitchやYouTubeでの配信活動を開始し、多くのフォロワーを獲得しました。</p>
+            </section>
+            <section>
+                <h2>現在の活動</h2>
+                <p>現在、fps_shakaは主にTwitchでのライブストリーミングを行っており、様々なゲームをプレイしています。また、YouTubeでも動画を投稿しています。</p>
+            </section>
+            <section>
+                <h2>参考リンク</h2>
+                <ul>
+                    <li><a href="https://ja.wikipedia.org/wiki/SHAKA">SHAKA - Wikipedia</a></li>
+                    <li><a href="https://streamers.fandom.com/wiki/Fps_shaka">Fps shaka - Streamerpedia</a></li>
+                    <li><a href="https://liquipedia.net/pubg/SHAKA">SHAKA - Liquipedia PUBG Wiki</a></li>
+                    <li><a href="https://deltiasgaming.com/who-is-fps_shaka-and-why-is-he-so-popular-on-twitch/">Who Is fps_shaka And Why Is He So Popular on Twitch</a></li>
+                    <li><a href="https://pentanews.net/avashaka/">【プロゲーマー】釈迦ってどんな人？本名や年齢、経歴がこの記事1つで丸わかり！【デトネーター】</a></li>
+                    <li><a href="https://note.com/gamewatcher/n/nd978d88ad05a">釈迦/SHAKAの経歴【やんちゃな学生時代→AVA・オーバーウォッチプロゲーマー→長時間配信者→PUBG解説者】</a></li>
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2025 fps_shakaのまとめ</p>
+        </footer>
+    </div>
+</body>
+</html>
